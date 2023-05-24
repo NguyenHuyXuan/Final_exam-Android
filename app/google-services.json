@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "781888470826",
+    "firebase_url": "https://music-bcf2f-default-rtdb.firebaseio.com",
+    "project_id": "music-bcf2f",
+    "storage_bucket": "music-bcf2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781888470826:android:c5166566bb50b30aeb6853",
+        "android_client_info": {
+          "package_name": "com.company.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781888470826-cv8amoqb0ufbetsbp50aeb2uqo5v254m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JaAPVoYJr7vvFpSp5l7OePWR4WMgaaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781888470826-cv8amoqb0ufbetsbp50aeb2uqo5v254m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781888470826:android:197c79a41b10ba72eb6853",
+        "android_client_info": {
+          "package_name": "com.hktstudio.music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781888470826-cv8amoqb0ufbetsbp50aeb2uqo5v254m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JaAPVoYJr7vvFpSp5l7OePWR4WMgaaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781888470826-cv8amoqb0ufbetsbp50aeb2uqo5v254m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
